@@ -5,7 +5,7 @@
 
 3.The game starts with one of the players and the game ends when one of the players has one whole row/ column / diagonal filled with his/ her respective character (‘O” or ‘X’). 
 
-4.If no one wins, then it display "GAME IS DRAW".
+4.If no one wins, then it display "Game was Draw".
 
 5.If "X" wins, it dispaly "Congratulations, Winner is X".
 
