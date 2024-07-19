@@ -3,7 +3,7 @@
 
 2.One of the player chooses "O" and the other chooses "X" to mark their respective cells.
 
-3.The game starts with one of the players and the game ends when one of the players has one whole row/ column / diagonal filled with his/ her respective character (‘O” or ‘X’). 
+3.The game starts with one of the players and the game ends when one of the players has one whole row/ column / diagonal filled with his/ her respective character ("O” or "X"). 
 
 4.If no one wins, then it display "Game was Draw".
 
