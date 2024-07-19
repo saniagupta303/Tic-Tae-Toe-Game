@@ -7,9 +7,9 @@
 
 4.If no one wins, then it display "Game was Draw".
 
-5.If "X" wins, it dispaly "Congratulations, Winner is "X".
+5.If "X" wins, it dispaly "Congratulations, Winner is X".
 
-6.If "O" wins, it display "Congratulations, Winner is "O"
+6.If "O" wins, it display "Congratulations, Winner is O"
 
 7.Click "RESET GAME" button if players wants to reset the game.
 
