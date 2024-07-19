@@ -19,4 +19,4 @@
 
 10.The HTML(Hypertext Markup Language) is used to design the structure/layout and CSS(Cascading Stylesheet) is used to style the webpages.
 
-11.The JavaScript is used to perform an action of a webpage.
+11.The JavaScript is used to perform an action in a webpage.
